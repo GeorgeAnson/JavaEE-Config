@@ -1,0 +1,11 @@
+#regForm{
+  max-width: 800px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#warp{
+  width: 100%;
+  height: auto;
+}
